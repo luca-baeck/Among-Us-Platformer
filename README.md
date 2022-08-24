@@ -16,7 +16,7 @@ Alle Spielstände und Matchstatistiken werden in der Datenbank gesichert.</p>
 ![Screenshot](/application-preview/loading.png "Screenshot")
 ![Screenshot](/application-preview/login.png "Screenshot")
 ![Screenshot](/application-preview/register.png "Screenshot")
-![Screenshot](/application-preview/gameplay.mp4 "Screenshot")
+![Gameplay](/application-preview/gameplay.mp4 "Gameplay")
 
 ## Sprachen
 
